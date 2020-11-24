@@ -1,9 +1,9 @@
 # Hey there! I'm Alex 🙂 (a.k.a. usual-one)
 
 - 👨‍💻 Junior front-end developer
+- 🌠 Young enthusiast
 - 🏦 BMSTU Student
 - 🌍 Located in Moscow, Russia
-- 🌠 Young enthusiast
 
 ### Languages and frameworks 🖥
 <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML" height="25px" align="left" />
