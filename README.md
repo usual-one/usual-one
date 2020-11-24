@@ -1,10 +1,10 @@
-# Hey there! I'm Alex😀 (a.k.a. usual\_one)
+# Hey there! I'm Alex🙂 (a.k.a. usual\_one)
 
-- Junior front-end developer👨‍💻
-- BMSTU Student🏦
-- Young enthusiast🌠 
+- Junior front-end developer 👨‍💻
+- BMSTU Student 🏦
+- Young enthusiast 🌠 
 
-### Languages and frameworks🖥
+### Languages and frameworks 🖥
 <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML" height="25px" align="left" />
 <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" height="25px" align="left" />
 <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" height="25px" align="left" />
@@ -22,7 +22,7 @@
 <img src="https://cdn.svgporn.com/logos/markdown.svg" alt="Markdown" height="25px" align="left" />
 <br />
 
-### Tools🛠 I actively use
+### Tools I actively use 🛠
 <img src="https://cdn.svgporn.com/logos/archlinux.svg" alt="Arch Linux" width="25px" align="left" />
 <img src="https://cdn.svgporn.com/logos/terminal.svg" alt="Terminal" height="25px" align="left" />
 <img src="https://cdn.svgporn.com/logos/vim.svg" alt="Vim" height="25px" align="left" />
