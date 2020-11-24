@@ -2,7 +2,7 @@
 
 - 👨‍💻 Junior front-end developer
 - 🌠 Young enthusiast
-- 🏦 BMSTU Student
+- 🏛 BMSTU Student
 - 🌍 Located in Moscow, Russia
 
 ### Languages and frameworks 🖥
