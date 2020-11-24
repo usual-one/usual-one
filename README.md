@@ -1,8 +1,8 @@
-# Hey there! I'm Alex🙂 (a.k.a. usual\_one)
+# Hey there! I'm Alex 🙂 (a.k.a. usual\_one)
 
-- Junior front-end developer 👨‍💻
-- BMSTU Student 🏦
-- Young enthusiast 🌠 
+- 👨‍💻 Junior front-end developer
+- 🏦 BMSTU Student
+- 🌠 Young enthusiast
 
 ### Languages and frameworks 🖥
 <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML" height="25px" align="left" />
