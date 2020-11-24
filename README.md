@@ -22,18 +22,18 @@
 <img src="https://cdn.svgporn.com/logos/markdown.svg" alt="Markdown" height="25px" align="left" />
 <br />
 
-### Tools
-<img src="https://cdn.svgporn.com/logos/vim.svg" alt="Vim" height="25px" align="left" />
+### Tools I actively use
+<img src="https://cdn.svgporn.com/logos/archlinux.svg" alt="Arch Linux" width="25px" align="left" />
 <img src="https://cdn.svgporn.com/logos/terminal.svg" alt="Terminal" height="25px" align="left" />
+<img src="https://cdn.svgporn.com/logos/vim.svg" alt="Vim" height="25px" align="left" />
 <img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git" width="25px" align="left" />
 <img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="GitHub" width="25px" align="left" />
 <img src="https://cdn.svgporn.com/logos/gitlab.svg" alt="GitLab" width="25px" align="left" />
-<img src="https://cdn.svgporn.com/logos/archlinux.svg" alt="Arch Linux" width="25px" align="left" />
-<img src="https://cdn.svgporn.com/logos/copyleft.svg" alt="Copyleft" height="25px" align="left" />
+<!-- <img src="https://cdn.svgporn.com/logos/copyleft.svg" alt="Copyleft" height="25px" align="left" />
 <img src="https://cdn.svgporn.com/logos/gnu.svg" alt="GNU" height="25px" align="left" />
-<img src="https://cdn.svgporn.com/logos/raspberry-pi.svg" alt="Raspberry Pi" height="25px" align="left" />
+<img src="https://cdn.svgporn.com/logos/raspberry-pi.svg" alt="Raspberry Pi" height="25px" align="left" /> -->
 <img src="https://cdn.svgporn.com/logos/jira.svg" alt="Jira" height="25px" align="left" />
-<img src="https://cdn.svgporn.com/logos/atlassian.svg" alt="Atlassian" height="25px" align="left" />
+<!-- <img src="https://cdn.svgporn.com/logos/atlassian.svg" alt="Atlassian" height="25px" align="left" /> -->
 <br />
 
 ### You can find me here
