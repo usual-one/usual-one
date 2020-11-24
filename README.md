@@ -1,7 +1,8 @@
-# Hey there! I'm Alex 🙂 (a.k.a. usual\_one)
+# Hey there! I'm Alex 🙂 (a.k.a. usual-one)
 
 - 👨‍💻 Junior front-end developer
 - 🏦 BMSTU Student
+- 🌍 Located in Moscow, Russia
 - 🌠 Young enthusiast
 
 ### Languages and frameworks 🖥
