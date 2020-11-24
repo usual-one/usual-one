@@ -5,7 +5,7 @@
 - Young enthusiast
 
 ### Languages and frameworks
-<img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML" height="25px" />
+<img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML" height="25px" display="inline" />
 <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" height="25px" />
 <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" height="25px" />
 <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="TypeScript" height="25px" />
