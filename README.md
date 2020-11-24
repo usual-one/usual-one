@@ -12,7 +12,7 @@
 <img src="https://cdn.svgporn.com/logos/reactivex.svg" alt="RxJS" height="25px" />
 <img src="https://cdn.svgporn.com/logos/angular-icon.svg" alt="Angular" height="25px" />
 <img src="https://cdn.svgporn.com/logos/ionic.svg" alt="Ionic" height="25px" />
-<img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" heigth="25px" />
+<img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" height="25px" />
 <img src="https://cdn.svgporn.com/logos/flask.svg" alt="Flask" height="25px" />
 <img src="https://cdn.svgporn.com/logos/mongodb.svg" alt="MongoDB" height="25px" />
 <img src="https://cdn.svgporn.com/logos/c.svg" alt="C" height="25px" />
@@ -20,7 +20,6 @@
 <img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="C#" height="25px" />
 <img src="https://cdn.svgporn.com/logos/qt.svg" alt="Qt" height="25px" />
 <img src="https://cdn.svgporn.com/logos/markdown.svg" alt="Markdown" height="25px" />
-
 
 ### Tools
 <img src="https://cdn.svgporn.com/logos/vim.svg" alt="Vim" height="25px" />
