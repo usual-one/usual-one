@@ -26,7 +26,7 @@
 
 ### Tools I actively use 🛠
 <img src="https://cdn.svgporn.com/logos/archlinux.svg" alt="Arch Linux" width="25px" align="left" />
-<img src="https://cdn.svgporn.com/logos/terminal.svg" alt="Terminal" height="25px" align="left" />
+<img src="https://cdn.svgporn.com/logos/bash-icon.svg" alt="Bash" height="25px" align="left" />
 <img src="https://cdn.svgporn.com/logos/vim.svg" alt="Vim" height="25px" align="left" />
 <img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git" width="25px" align="left" />
 <img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="GitHub" width="25px" align="left" />
