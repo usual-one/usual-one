@@ -1,6 +1,6 @@
 # Hey there! I'm Alex 🙂
 
-- 👨‍💻 Middle front-end developer
+- 👨‍💻 Middle Angular front-end developer
 - 🌠 Young enthusiast
 - 🏛 BMSTU Student
 - 🌍 Located in Moscow, Russia
