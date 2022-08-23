@@ -6,4 +6,4 @@
 - 🌍 Located in Moscow, Russia
 
 ### My contacts
-<a href="https://t.me/usual_one"><img src="https://cdn.svgporn.com/logos/telegram.svg" alt="Telegram" height="25px" align="left" /></a>
+<a href="https://t.me/usual_one">@usual_one <img src="https://cdn.svgporn.com/logos/telegram.svg" alt="Telegram" height="25px" align="left" /></a>
