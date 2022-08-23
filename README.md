@@ -1,4 +1,4 @@
-# Hey there! I'm Alex 🙂 (a.k.a. usual-one)
+# Hey there! I'm Alex 🙂
 
 - 👨‍💻 Middle front-end developer
 - 🌠 Young enthusiast
